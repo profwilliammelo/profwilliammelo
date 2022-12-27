@@ -1,3 +1,7 @@
+---
+title: Exemplo de post MD
+date: 2022-12-27T18:02:33.204Z
+---
 ## Orçamento de trabalho
 
 `Beneficiária/cliente:` Juliana Santos.
@@ -8,7 +12,7 @@ possuem lupus no Rio de Janeiro.
 `Tipo de dados coletados:` prontuários de hospital em contexto de
 trabalho pessoal.
 
-------------------------------------------------------------------------
+- - -
 
 ### Orçamento em tabela
 
@@ -24,13 +28,13 @@ trabalho pessoal.
 > os dados (data reporting)**, **analise bi-variada raca x idade**,
 > **analise bi-variada raca x moradia** e **analise univariada raca
 > lupus** fica em
-
+>
 > ### 💲R$250,00.
-
+>
 > Para detalhes da planilha de valores, ver [aqui no
 > Notion](https://williammelo.notion.site/210829c930904500b9e9e7d9d91929ea?v=df08a0ce25cf43a29f440188c3c5400f).
 
-------------------------------------------------------------------------
+- - -
 
 <center>
 
@@ -41,7 +45,7 @@ Educação com Evidências ®️
 @profwilliammelo | @educomevidencias
 
 <img
-src="images/Sem%20nome%20(400%C2%A0%C3%97%C2%A0400%C2%A0px)%20(1).png"
+src="images/Sem nome (400 × 400 px) (1).png"
 width="49" /><img src="images/Logo%20EcE%20sem%20nome.png" width="55" />
 
 </center>
